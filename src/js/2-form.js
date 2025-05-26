@@ -1,4 +1,3 @@
-
 const formRef = document.querySelector(".feedback-form");
 const emailRef = formRef.elements['email'];
 const messageRef = formRef.elements['message'];
